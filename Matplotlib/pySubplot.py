@@ -146,5 +146,5 @@ plt.subplot(1, 2, 2)
 plt.plot(x,y)
 plt.title("INCOME")
 
-plt.suptitle("MY SHOP")
+plt.suptitle("My Store")
 plt.show()
